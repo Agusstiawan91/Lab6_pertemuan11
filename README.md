@@ -42,3 +42,8 @@
 4.	Berdasarkan pilihan, program akan menjalankan fungsi yang sesuai dan kembali menampilkan menu setelah selesai.
 5.	Program berakhir ketika pengguna memilih untuk keluar (pilihan 5).
 
+# Flowchart
+![Teks Alternatif](flowchart_lab6.png)
+# Screenshot
+![Teks Alternatif](ss1_lab6.png)
+![Teks Alternatif](ss2_lab6.png)
